@@ -8,8 +8,8 @@ WORKDIR /app
 COPY ./target/*.jar /app/pizza_shop_backend.jar
 
 # Build the Java application
-COPY database /app/database
-COPY run.sh /app/run.sh
+#COPY database /app/database
+
 
 
 # Expose ports

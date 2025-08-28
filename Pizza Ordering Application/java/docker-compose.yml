@@ -30,3 +30,4 @@ services:
       SPRING_DATASOURCE_PASSWORD: finalcapstone
     ports:
       - "9000:9000"
+
